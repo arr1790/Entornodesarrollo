@@ -8,11 +8,11 @@ Otra línea.
 
 >NOTA: Esto debe realizarse en Java.
 >
-> Otra línea
+> 
 >El comando `dir` sirve para hacer listado de un directorio.
 
 
-Tienes que ejecutar el comando 
+
 
 `sudo apt install apache2`
 
